@@ -1,0 +1,151 @@
+2019-10-19 18:37:29,299  INFO [main] nopcommerce:31 - **********Launching browser*********
+2019-10-19 18:37:29,377  INFO [main] nopcommerce:37 - **********Oepning URL*********
+2019-10-19 19:08:46,990  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 19:08:47,053  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 19:08:51,742  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 19:45:33,470  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 19:45:33,532  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 19:45:39,621  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 19:45:40,048  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 19:45:55,998  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 19:45:59,162  INFO [main] nopcommerce:99 - **********Logout*********
+2019-10-19 19:46:00,113  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 19:46:03,134  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 19:50:53,752  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 19:50:53,799  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 19:50:59,840  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 19:51:00,138  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 19:51:06,435  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 19:51:09,649  INFO [main] nopcommerce:99 - **********Logout*********
+2019-10-19 19:51:10,910  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 19:51:13,933  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:29:17,806  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:29:17,868  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:29:23,592  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:29:23,946  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:29:30,052  INFO [main] nopcommerce:113 - **********Adding customer Scanario started********
+2019-10-19 20:29:33,054  INFO [main] nopcommerce:115 - **********Display validation*********
+2019-10-19 20:29:33,070  INFO [main] nopcommerce:122 - **********customer menu*********
+2019-10-19 20:29:36,221  INFO [main] nopcommerce:129 - **********customer menu item********
+2019-10-19 20:29:41,590  INFO [main] nopcommerce:137 - *********add new********
+2019-10-19 20:29:45,413  INFO [main] nopcommerce:148 - **********enter customer info*********
+2019-10-19 20:29:53,034  INFO [main] nopcommerce:169 - **********save*********
+2019-10-19 20:29:54,572  INFO [main] nopcommerce:175 - **********Add customer validation*********
+2019-10-19 20:29:54,977  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:30:01,358  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:30:01,358  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:30:06,992  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:30:07,339  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:30:13,515  INFO [main] nopcommerce:113 - **********Adding customer Scanario started********
+2019-10-19 20:30:16,527  INFO [main] nopcommerce:115 - **********Display validation*********
+2019-10-19 20:30:16,543  INFO [main] nopcommerce:122 - **********customer menu*********
+2019-10-19 20:30:19,697  INFO [main] nopcommerce:129 - **********customer menu item********
+2019-10-19 20:30:23,718  INFO [main] nopcommerce:186 - **********search customer by emailiD********
+2019-10-19 20:30:27,495  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:30:33,715  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:30:33,715  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:30:39,183  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:30:39,506  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:30:45,538  INFO [main] nopcommerce:113 - **********Adding customer Scanario started********
+2019-10-19 20:30:48,541  INFO [main] nopcommerce:115 - **********Display validation*********
+2019-10-19 20:30:48,557  INFO [main] nopcommerce:122 - **********customer menu*********
+2019-10-19 20:30:51,723  INFO [main] nopcommerce:129 - **********customer menu item********
+2019-10-19 20:30:55,759  INFO [main] nopcommerce:207 - **********Providing Customer Details*********
+2019-10-19 20:30:59,253  INFO [main] nopcommerce:219 - **********name found*********
+2019-10-19 20:30:59,352  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:43:55,821  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:43:55,883  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:44:01,661  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:44:02,024  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:44:08,887  INFO [main] nopcommerce:113 - **********Adding customer Scanario started********
+2019-10-19 20:44:11,893  INFO [main] nopcommerce:115 - **********Display validation*********
+2019-10-19 20:44:11,908  INFO [main] nopcommerce:122 - **********customer menu*********
+2019-10-19 20:44:15,071  INFO [main] nopcommerce:129 - **********customer menu item********
+2019-10-19 20:44:19,440  INFO [main] nopcommerce:137 - *********add new********
+2019-10-19 20:44:20,465  INFO [main] nopcommerce:148 - **********enter customer info*********
+2019-10-19 20:44:27,944  INFO [main] nopcommerce:169 - **********save*********
+2019-10-19 20:44:29,134  INFO [main] nopcommerce:175 - **********Add customer validation*********
+2019-10-19 20:44:29,532  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:44:35,744  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:44:35,744  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:44:41,171  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:44:41,504  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:44:47,434  INFO [main] nopcommerce:113 - **********Adding customer Scanario started********
+2019-10-19 20:44:50,445  INFO [main] nopcommerce:115 - **********Display validation*********
+2019-10-19 20:44:50,461  INFO [main] nopcommerce:122 - **********customer menu*********
+2019-10-19 20:44:53,587  INFO [main] nopcommerce:129 - **********customer menu item********
+2019-10-19 20:44:57,657  INFO [main] nopcommerce:207 - **********Providing Customer Details*********
+2019-10-19 20:45:01,197  INFO [main] nopcommerce:219 - **********name found*********
+2019-10-19 20:45:01,322  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:45:07,531  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:45:07,534  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:45:13,077  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:45:13,380  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:45:19,300  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 20:45:22,346  INFO [main] nopcommerce:99 - **********Logout*********
+2019-10-19 20:45:23,425  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 20:45:26,459  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:49:24,667  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:49:24,745  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:49:31,303  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:49:31,629  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:49:38,166  INFO [main] nopcommerce:113 - **********Adding customer Scanario started********
+2019-10-19 20:49:41,167  INFO [main] nopcommerce:115 - **********Display validation*********
+2019-10-19 20:49:41,198  INFO [main] nopcommerce:122 - **********customer menu*********
+2019-10-19 20:49:44,342  INFO [main] nopcommerce:129 - **********customer menu item********
+2019-10-19 20:49:48,382  INFO [main] nopcommerce:137 - *********add new********
+2019-10-19 20:49:49,636  INFO [main] nopcommerce:148 - **********enter customer info*********
+2019-10-19 20:49:57,031  INFO [main] nopcommerce:169 - **********save*********
+2019-10-19 20:49:58,235  INFO [main] nopcommerce:175 - **********Add customer validation*********
+2019-10-19 20:49:58,649  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:50:04,903  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:50:04,903  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:50:10,721  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:50:11,087  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:50:17,039  INFO [main] nopcommerce:113 - **********Adding customer Scanario started********
+2019-10-19 20:50:20,046  INFO [main] nopcommerce:115 - **********Display validation*********
+2019-10-19 20:50:20,062  INFO [main] nopcommerce:122 - **********customer menu*********
+2019-10-19 20:50:23,194  INFO [main] nopcommerce:129 - **********customer menu item********
+2019-10-19 20:50:27,649  INFO [main] nopcommerce:207 - **********Providing Customer Details*********
+2019-10-19 20:50:31,184  INFO [main] nopcommerce:219 - **********name found*********
+2019-10-19 20:50:31,325  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:50:37,519  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:50:37,519  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:50:43,042  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:50:43,420  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:50:49,404  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 20:50:52,494  INFO [main] nopcommerce:99 - **********Logout*********
+2019-10-19 20:50:53,526  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 20:50:56,552  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 20:58:42,627  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 20:58:42,711  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 20:59:20,346  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 20:59:20,652  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 20:59:35,387  INFO [main] nopcommerce:113 - **********Adding customer Scanario started********
+2019-10-19 20:59:38,390  INFO [main] nopcommerce:115 - **********Display validation*********
+2019-10-19 20:59:38,425  INFO [main] nopcommerce:122 - **********customer menu*********
+2019-10-19 20:59:41,570  INFO [main] nopcommerce:129 - **********customer menu item********
+2019-10-19 20:59:47,093  INFO [main] nopcommerce:137 - *********add new********
+2019-10-19 20:59:51,223  INFO [main] nopcommerce:148 - **********enter customer info*********
+2019-10-19 20:59:58,600  INFO [main] nopcommerce:169 - **********save*********
+2019-10-19 21:00:00,448  INFO [main] nopcommerce:175 - **********Add customer validation*********
+2019-10-19 21:00:00,861  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 21:00:07,162  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 21:00:07,165  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 21:00:12,576  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 21:00:12,856  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 21:00:19,503  INFO [main] nopcommerce:113 - **********Adding customer Scanario started********
+2019-10-19 21:00:22,505  INFO [main] nopcommerce:115 - **********Display validation*********
+2019-10-19 21:00:22,525  INFO [main] nopcommerce:122 - **********customer menu*********
+2019-10-19 21:00:25,651  INFO [main] nopcommerce:129 - **********customer menu item********
+2019-10-19 21:00:29,842  INFO [main] nopcommerce:207 - **********Providing Customer Details*********
+2019-10-19 21:00:33,332  INFO [main] nopcommerce:219 - **********name found*********
+2019-10-19 21:00:33,459  INFO [main] nopcommerce:105 - **********close browser*********
+2019-10-19 21:00:39,519  INFO [main] nopcommerce:60 - **********Launching browser*********
+2019-10-19 21:00:39,525  INFO [main] nopcommerce:66 - **********Oepning URL*********
+2019-10-19 21:00:44,966  INFO [main] nopcommerce:73 - **********set email and password*********
+2019-10-19 21:00:45,243  INFO [main] nopcommerce:80 - **********Loginr*********
+2019-10-19 21:00:51,389  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 21:00:54,485  INFO [main] nopcommerce:99 - **********Logout*********
+2019-10-19 21:00:55,545  INFO [main] nopcommerce:87 - *********title verifyr*********
+2019-10-19 21:00:58,564  INFO [main] nopcommerce:105 - **********close browser*********
